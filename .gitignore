@@ -120,7 +120,7 @@ nb-configuration.xml
 .vscode/
 
 
-/phpunit*.xml
+
 
 # My Webhook
  deploy.sh
